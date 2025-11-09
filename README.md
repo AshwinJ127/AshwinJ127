@@ -29,11 +29,4 @@ I enjoy building products that merge AI, data, and thoughtful design.
 
 ---
 
-### GitHub Insights
-
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinj127&show_icons=true&theme=transparent&hide_border=true&title_color=1E90FF&text_color=C9D1D9)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinj127&layout=compact&theme=transparent&hide_border=true&title_color=1E90FF&text_color=C9D1D9)
-
----
-
 Thanks for visiting — check out my projects and feel free to connect.
