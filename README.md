@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ashwin Joshi
 
-<!--
-**AshwinJ127/AshwinJ127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student at UCLA School of Engineering**  
+Focused on **machine learning**, **data analytics**, and **full-stack development**.  
+I enjoy building products that merge AI, data, and thoughtful design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Strong foundation in **Python, Java, JavaScript, SQL, and C++**  
+- Experienced with **React**, **Node.js**, **Pandas**, **NumPy**, and **scikit-learn**  
+- Skilled in **data analysis**, **model building**, and **web app development**  
+- Experienced in **AWS**, **Netlify**, and **Git**  
+- Passionate about clean architecture, scalability, and data-driven engineering
+
+---
+
+### Tech Stack
+**Languages:** Python • Java • JavaScript • SQL • HTML/CSS  
+**Frameworks & Libraries:** React • Node.js • scikit-learn • Pandas • NumPy  
+**Tools & Platforms:** Git • Netlify • AWS  
+**Focus Areas:** Machine Learning • Data Engineering • Full-Stack Development
+
+---
+
+### Connect
+**Website:** [ashwinjoshi.me](https://ashwinjoshi.me)  
+**LinkedIn:** [linkedin.com/in/ashwinj127](https://www.linkedin.com/in/ashwinj127)
+
+---
+
+### GitHub Insights
+
+![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinj127&show_icons=true&theme=transparent&hide_border=true&title_color=1E90FF&text_color=C9D1D9)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinj127&layout=compact&theme=transparent&hide_border=true&title_color=1E90FF&text_color=C9D1D9)
+
+---
+
+Thanks for visiting — check out my projects and feel free to connect.
